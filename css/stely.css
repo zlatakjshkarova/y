@@ -1,0 +1,181 @@
+.wrapper {
+    min-height: 3454px;
+}
+
+.content {
+    max-height: 3557px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.head-wrap-img {
+    display: flex;
+    justify-content: first baseline;
+    align-items: flex-start;
+
+
+}
+
+.head-img {
+    width: 698px;
+    height: 728px;
+
+}
+
+body {
+    background-image: url(../img/start-screen-gradient-background.png);
+}
+
+.head4_lobo {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+}
+
+.lobo {
+    color: goldenrod;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 31px;
+
+}
+
+
+
+.head4 {
+    color: rgb(245, 248, 248);
+    font-size: 15px;
+    margin: 66px auto;
+    display: block;
+    justify-content: space-evenly;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+
+
+}
+
+.head_img {
+    display: flex;
+    justify-content: baseline;
+    margin-top: 89px;
+}
+
+.head {
+    width: 628px;
+    height: 728px;
+
+}
+
+.heade {
+    color: aliceblue;
+    font-size: 34px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 66px;
+}
+
+.qaz {
+    color: aliceblue;
+    font-size: 23px;
+    line-height: 34px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.heade_qaz_uuj8j8j {
+    display: inline-block;
+    justify-content: space-between;
+    align-self: start;
+}
+
+.uuj8j8j {
+    padding: 19px 67px;
+    background-color: darkkhaki;
+    color: black;
+    border-radius: 35px 34px 34px 35px;
+}
+
+.head {
+    width: 628;
+    height: 728px;
+}
+
+.head_img {
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.head_r {
+    display: flex;
+    justify-content: space-between;
+
+    column-gap: 180px;
+}
+
+.head_r3 {
+    color: aliceblue;
+    padding: 23 45px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Futura New';
+    font-size: 12px;
+    font-style: normal;
+
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+.head_r3:hover+.wer {
+    color: blanchedalmond;
+}
+
+.wer {
+    color: #000;
+}
+
+.logo {
+    width: 654px;
+    height: 728px;
+}
+
+.header__logo {
+    display: flex;
+    justify-content: baseline;
+}
+
+.dog {
+    display: flex;
+    justify-content: baseline;
+
+
+}
+
+.cat {
+    color: rgb(56, 54, 54);
+    font-size: 34px;
+}
+
+.container {
+    background-color: aliceblue;
+}
